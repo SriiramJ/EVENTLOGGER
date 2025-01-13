@@ -16,3 +16,5 @@ const logToFile = (event) =>{
     const logMessage = `${new Date().toISOString()} - ${event.message}`
     fs.appendFileSync(logFile, logMessage)
 }
+
+logger.on('message', logToFile)
