@@ -10,3 +10,9 @@ class Logger extends EventEmitter{
 }
 
 const logger = new Logger()
+const logFile = "./eventlog.txt"
+
+const logToFile = (event) =>{
+    const logMessage = `${new Date().toISOString()} - ${event.message}`
+    fs.appendFileSync(logFile, logMessage)
+}
