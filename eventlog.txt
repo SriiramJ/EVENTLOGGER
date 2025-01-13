@@ -1,0 +1,10 @@
+2025-01-13T12:10:19.745Z - Application Started
+2025-01-13T12:10:19.746Z - Application is event occured
+2025-01-13T12:10:22.753Z - Current memory usage: 51.02
+2025-01-13T12:10:25.769Z - Current memory usage: 50.93
+2025-01-13T12:10:28.784Z - Current memory usage: 51.00
+2025-01-13T12:10:31.788Z - Current memory usage: 50.84
+2025-01-13T12:10:34.793Z - Current memory usage: 50.60
+2025-01-13T12:10:37.808Z - Current memory usage: 50.57
+2025-01-13T12:10:40.810Z - Current memory usage: 50.41
+2025-01-13T12:10:43.819Z - Current memory usage: 50.30
